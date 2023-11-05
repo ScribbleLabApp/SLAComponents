@@ -3,4 +3,12 @@
   <h1 align="center">SLAComponets</h1>
 </p>
 
-SLACompnets is a Swift Package that contains Buttons, TextFields and many more which are used in ScribbleLab.
+<p align="center">
+SLAComponents contains SwiftUI component libraries for ScribbleLab. Currently, we are building this library and it is in Beta. No stable version available yet.
+</p>
+
+<p align="center">
+<a href="">Documentation (Coming)</a> • <a href="https://github.com/ScribbleLabApp/ScribbleLab">ScribbleLab</a>
+</p>
+
+## Table of Contents
