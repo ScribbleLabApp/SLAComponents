@@ -15,4 +15,8 @@ struct SLAButton: View {
     public var background: Color
     public var padding: SLAPadding
     public var cornerRadius: CGFloat
+    
+    public var body: some View {
+        EmptyView() // TODO: Change this
+    }
 }
